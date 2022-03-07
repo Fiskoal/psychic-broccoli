@@ -1,0 +1,10 @@
+const About = () => {
+  return ( 
+      <div>
+        <h1>About</h1>
+        <p>Lorem ipsum dolor</p>
+      </div>
+   );
+}
+ 
+export default About;
